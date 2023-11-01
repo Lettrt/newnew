@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'drf_yasg',
 
     # Apps
+    'news.apps.NewsConfig',
 ]
 
 MIDDLEWARE = [
